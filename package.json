@@ -1,5 +1,5 @@
 {
-    "name": "grunt-typescript-dependancies",
+    "name": "grunt-typescript-annotations",
     "description": "Creates TypeScriptAnnotations file",
     "version": "0.1.0",
     "homepage": "https://github.com/dannymarsland/grunt-typescript-annotations",
